@@ -1,5 +1,4 @@
 def caesar_cipher(text, x)
-
   encrypt = Array.new
   words = text.split('')
 
@@ -16,5 +15,4 @@ def caesar_cipher(text, x)
   end
 
   return encrypt.join
-
 end

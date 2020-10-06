@@ -19,9 +19,4 @@ def sum_of_3_or_5_multiples(final_number)
   else
     return "Yo ! Je ne prends que les entiers naturels. TG"
   end
-
-
-
-
-
 end
